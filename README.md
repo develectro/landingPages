@@ -1,2 +1,2 @@
 # landingPages
-Aetheitic landing pages
+Aesthetic landing pages
